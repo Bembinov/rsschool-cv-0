@@ -1,1 +1,1 @@
-https://bembinov.github.io/rsschool-cv/cv
+https://bembinov.github.io/rsschool-cv/cv.md
